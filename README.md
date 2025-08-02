@@ -1,1 +1,1 @@
-# Todo-List
+Basic To-do list application
